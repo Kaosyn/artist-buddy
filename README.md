@@ -18,17 +18,17 @@ This little app should help artists run an artist-alley booth even when conventi
 - Azure Blob Storage (JSON)
 - GitHub Actions for CI/CD
 
-## Domain model
-Reworking
+## Concept
+See [FigJam Export](2026-03-concept.png)
 
 ## Use cases
 Reworking
 
 ## Sync/data flow
-Reworking
+Later
 
 ## Deployment
-Todo
+Later
 
 ## Auth
 Later
