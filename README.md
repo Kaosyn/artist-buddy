@@ -19,7 +19,7 @@ This little app should help artists run an artist-alley booth even when conventi
 - GitHub Actions for CI/CD
 
 ## Concept
-See [FigJam Export](2026-03-concept.png)
+See ![FigJam Export](docs/2026-03-concept.png)
 
 ## Use cases
 Reworking
