@@ -13,9 +13,6 @@ export type EventStatus = (typeof EVENT_STATUSES)[number];
 export const PAYMENT_METHODS = ['cash', 'card', 'paypal'] as const;
 export type PaymentMethod = (typeof PAYMENT_METHODS)[number];
 
-export const SALE_TYPES = ['normal', 'gift', 'refund'] as const;
-export type SaleType = (typeof SALE_TYPES)[number];
-
 export const STOCK_MOVEMENT_TYPES = [
     'initial',
     'restock',
