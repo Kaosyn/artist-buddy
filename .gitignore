@@ -1,21 +1,16 @@
-# IDE
-.vscode-test
-/.idea/
-
 # Logs
 logs
 *.log
 npm-debug.log*
 
-# Dependency directories
-node_modules/
-jspm_packages/
+# Generated
+node_modules
+dist
+dist-ssr
+*.local
 
-# dotenv environment variable files
-.env
-.env.*
-!.env.example
-
-# Vite logs files
-vite.config.js.timestamp-*
-vite.config.ts.timestamp-*
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
